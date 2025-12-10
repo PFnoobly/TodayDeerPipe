@@ -1,2 +1,3 @@
-# TodayDeerPipe
-今天鹿什么
+# TodayDeerPipe 今天鹿什么
+想法来自群内机器人有的“今天吃什么”功能，应群友要求简单做一个今天鹿什么。  
+100%ai制作，感谢claude.ai  
